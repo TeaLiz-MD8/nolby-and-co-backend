@@ -78,7 +78,7 @@
     "image": {
       "type": "media",
       "multiple": true,
-      "required": true,
+      "required": false,
       "allowedTypes": [
         "images"
       ]
